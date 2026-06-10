@@ -1,0 +1,5 @@
+bad ansible_host=ndf-bad.fyre.ibm.com
+good ansible_host=ndf-good.fyre.ibm.com
+
+#ndf-bad	9.30.245.172
+#ndf-good	9.30.248.214
